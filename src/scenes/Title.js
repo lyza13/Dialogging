@@ -28,7 +28,7 @@ class Title extends Phaser.Scene {
 
     create() {
         // add title text
-        this.add.bitmapText(centerX, centerY - 32, 'gem_font', 'THE ODYSSEY', 32).setOrigin(0.5);
+        this.add.bitmapText(centerX, centerY - 32, 'gem_font', 'THE TRAGEDY OF MACBETH', 32).setOrigin(0.5);
         this.add.bitmapText(centerX, centerY, 'gem_font', 'Press SPACE to start', 16).setOrigin(0.5);
 
         // create input
