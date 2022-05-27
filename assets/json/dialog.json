@@ -2,7 +2,7 @@
 	[
 		{
 			"speaker" : "homer",
-			"dialog" : "Tell me, O muse, of that ingenious hero who travelled far and wide after he had sacked the famous town of Troy.",
+			"dialog" : "Why hello!",
 			"newSpeaker" : "true"
 		},
 		{
@@ -10,12 +10,14 @@
 			"dialog" : "Many cities did he visit, and many were the nations with whose manners and customs he was acquainted."
 		},
 		{	
-			"speaker" : "homer",
-			"dialog" : "Moreover he suffered much by sea while trying to save his own life and bring his men safely home."
+			"speaker" : "neptune",
+			"dialog" : "Moreover he suffered much by sea while trying to save his own life and bring his men safely home.",
+			"newSpeaker" : "true"
 		},
 		{	
 			"speaker" : "homer",
-			"dialog" : "But do what he might he could not save his men, for they perished through their own sheer folly in eating the cattle of the Sun-god Hyperion."
+			"dialog" : "But do what he might he could not save his men, for they perished through their own sheer folly in eating the cattle of the Sun-god Hyperion.",
+			"newSpeaker" : "true"
 		},
 		{	
 			"speaker" : "homer",
@@ -54,6 +56,10 @@
 			"speaker" : "minerva",
 			"dialog" : "If, then, the gods now mean that Ulysses should get home, we should first send Mercury to the Ogygian island to tell Calypso that we have made up our minds and that he is to return.",
 			"newSpeaker" : "true"
+		},
+		{	
+			"speaker" : "minerva",
+			"dialog" : "I will go to Ithaca, to put heart into Ulysses' son Telemachus; I will embolden him to call the Achaeans in assembly, and speak out to the suitors of his mother Penelope, who persist in eating up any number of his sheep and oxen."
 		}
 	]
 ]
